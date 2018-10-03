@@ -1,0 +1,10 @@
+.cathegory-list {
+    background-color: lightgray;
+    padding: 8px 0;
+}
+
+.cathegory-list__item {
+    border: 1px darkgray solid;
+    margin: 0 2px;
+    width: 100px;
+}

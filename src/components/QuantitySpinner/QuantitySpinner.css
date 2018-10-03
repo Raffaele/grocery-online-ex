@@ -1,0 +1,9 @@
+.product-info__cmd {
+    border: 1px lightgray solid;
+    border-radius: 5px;
+}
+
+.product-info__quantity-bouth {
+    width: 50px;
+    margin: auto;
+}

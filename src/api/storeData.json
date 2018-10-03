@@ -1,0 +1,161 @@
+{
+    "store": [{
+        "name": "eggs",
+        "quantity": 80,
+        "pricePerUnit": 0.5,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "fresh food"
+        ]
+    }, {
+        "name": "milk bottle 1 liter",
+        "quantity": 50,
+        "pricePerUnit": 1,
+        "imageUrl": "",
+        "cathegories": [
+            "food"
+        ]
+    }, {
+        "name": "baby food apple",
+        "quantity": 150,
+        "pricePerUnit": 0.75,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "baby food"
+        ]
+    }, {
+        "name": "baby food beaf",
+        "quantity": 130,
+        "pricePerUnit": 0.95,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "baby food"
+        ]
+    }, {
+        "name": "yogurt",
+        "quantity": 4,
+        "pricePerUnit": 1.2,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "fresh food"
+        ]
+    }, {
+        "name": "caffee",
+        "quantity": 9,
+        "pricePerUnit": 2,
+        "imageUrl": "",
+        "cathegories": [
+            "drink",
+            "hot drink"
+        ]
+    }, {
+        "name": "tee",
+        "quantity": 18,
+        "pricePerUnit": 2.2,
+        "imageUrl": "",
+        "cathegories": [
+            "drink",
+            "hot drink"
+        ]
+    }, {
+        "name": "beer",
+        "quantity": 9,
+        "pricePerUnit": 4,
+        "imageUrl": "",
+        "cathegories": [
+            "drink",
+            "alcohol"
+        ]
+    }, {
+        "name": "sider",
+        "quantity": 9,
+        "pricePerUnit": 2,
+        "imageUrl": "",
+        "cathegories": [
+            "drink",
+            "alcohol"
+        ]
+    }, {
+        "name": "wine",
+        "quantity": 8,
+        "pricePerUnit": 12,
+        "imageUrl": "",
+        "cathegories": [
+            "drink",
+            "alcohol"
+        ]
+    }, {
+        "name": "liquor",
+        "quantity": 8,
+        "pricePerUnit": 22,
+        "imageUrl": "",
+        "cathegories": [
+            "drink",
+            "alcohol"
+        ]
+    }, {
+        "name": "icecreem pack",
+        "quantity": 4,
+        "pricePerUnit": 2.3,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "dessert"
+        ]
+    }, {
+        "name": "cake",
+        "quantity": 5,
+        "pricePerUnit": 2.8,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "dessert"
+        ]
+    }, {
+        "name": "cheescake",
+        "quantity": 8,
+        "pricePerUnit": 2.5,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "dessert"
+        ]
+    }, {
+        "name": "Easter eggs",
+        "quantity": 12,
+        "pricePerUnit": 4,
+        "imageUrl": "",
+        "cathegories": [
+            "food",
+            "dessert"
+        ]
+    }, {
+        "name": "Bottle of water",
+        "quantity": 5,
+        "pricePerUnit": 0.4,
+        "imageUrl": "",
+        "cathegories": [
+            "drink"
+        ]
+    }, {
+        "name": "Coke",
+        "quantity": 0,
+        "pricePerUnit": 4.2,
+        "imageUrl": "",
+        "cathegories": [
+            "drink"
+        ]
+    }, {
+        "name": "7Up",
+        "quantity": 10,
+        "pricePerUnit": 2.5,
+        "imageUrl": "",
+        "cathegories": [
+            "drink"
+        ]
+    }]
+}
